@@ -1,0 +1,4 @@
+# Tableau-s6
+
+Created this dashboard using Table calculation,  parameters to adjust the size of the bins,  Filter function to make the dashboard interactive, created storytelling line.
+This is a CSV UK Bank customer dataset. The data consists of customer ID, name, gender, age, job classification, region (England, Northern Ireland, Wales, Scotland), date joined, and Balance. The goal is to analyze how different regions are represented in order to provide better service to their customers in different areas. A map to represent regions, bar charts for age and balance distribution, a pie chart for gender, and tree map chart for job classification. I used a filter to make this dashboard interactive. I added annotations to point out something specific and attract customer’s attention. I also created storyline captions to summarize the data. First one is how the bank looks overall in the whole of the United Kingdom.
